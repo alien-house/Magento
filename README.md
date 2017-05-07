@@ -8,4 +8,5 @@
 - Access the your website.
 
 ## Customize Themes
-- [Themes overview][http://devdocs.magento.com/guides/v2.1/frontend-dev-guide/themes/theme-overview.html]
+- [Themes overview][a]
+ [a]:http://devdocs.magento.com/guides/v2.1/frontend-dev-guide/themes/theme-overview.html "Title"
