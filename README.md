@@ -9,4 +9,5 @@
 
 ## Customize Themes
 - [Themes overview][a]
- [a]:http://devdocs.magento.com/guides/v2.1/frontend-dev-guide/themes/theme-overview.html "Title"
+
+ [a]:http://devdocs.magento.com/guides/v2.1/frontend-dev-guide/themes/theme-overview.html
